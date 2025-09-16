@@ -1,0 +1,125 @@
+(myenv) GGN-MAC-INT1752:FINAL CODE int1752$ python3 capacity.py
+0
+('Baboon.tiff',)
+Cross effective embedding capacity is 204653 bit
+Cross total embedding capacity is 604412 bit
+Cross auxiliary information size is 399759 bit
+1 effective embedding capacity is 112142 bit
+1 total embedding capacity is 501366 bit
+1 auxiliary information size is 389224 bit
+2 effective embedding capacity is 111626 bit
+2 total embedding capacity is 500804 bit
+2 auxiliary information size is 389178 bit
+3 effective embedding capacity is 112199 bit
+3 total embedding capacity is 501529 bit
+3 auxiliary information size is 389330 bit
+4 effective embedding capacity is 111794 bit
+4 total embedding capacity is 500981 bit
+4 auxiliary information size is 389187 bit
+Dot effective embedding capacity is 112199 bit
+Effective embedding capacity is 316852 bit
+Effective embedding capacity is 1.2086944580078125 bpp
+1
+('Barbara.png',)
+Cross effective embedding capacity is 344284 bit
+Cross total embedding capacity is 745338 bit
+Cross auxiliary information size is 401054 bit
+1 effective embedding capacity is 211149 bit
+1 total embedding capacity is 619759 bit
+1 auxiliary information size is 408610 bit
+2 effective embedding capacity is 211072 bit
+2 total embedding capacity is 619599 bit
+2 auxiliary information size is 408527 bit
+3 effective embedding capacity is 203787 bit
+3 total embedding capacity is 612133 bit
+3 auxiliary information size is 408346 bit
+4 effective embedding capacity is 203046 bit
+4 total embedding capacity is 611363 bit
+4 auxiliary information size is 408317 bit
+Dot effective embedding capacity is 211149 bit
+Effective embedding capacity is 555433 bit
+Effective embedding capacity is 2.1188087463378906 bpp
+2
+('Lena.tiff',)
+Cross effective embedding capacity is 418332 bit
+Cross total embedding capacity is 797304 bit
+Cross auxiliary information size is 378972 bit
+1 effective embedding capacity is 320152 bit
+1 total embedding capacity is 717351 bit
+1 auxiliary information size is 397199 bit
+2 effective embedding capacity is 320759 bit
+2 total embedding capacity is 718035 bit
+2 auxiliary information size is 397276 bit
+3 effective embedding capacity is 294233 bit
+3 total embedding capacity is 694075 bit
+3 auxiliary information size is 399842 bit
+4 effective embedding capacity is 292863 bit
+4 total embedding capacity is 692920 bit
+4 auxiliary information size is 400057 bit
+Dot effective embedding capacity is 320759 bit
+Effective embedding capacity is 739091 bit
+Effective embedding capacity is 2.819408416748047 bpp
+3
+('Jetplane.tiff',)
+Cross effective embedding capacity is 489908 bit
+Cross total embedding capacity is 855215 bit
+Cross auxiliary information size is 365307 bit
+1 effective embedding capacity is 343091 bit
+1 total embedding capacity is 743582 bit
+1 auxiliary information size is 400491 bit
+2 effective embedding capacity is 343963 bit
+2 total embedding capacity is 744017 bit
+2 auxiliary information size is 400054 bit
+3 effective embedding capacity is 347199 bit
+3 total embedding capacity is 747390 bit
+3 auxiliary information size is 400191 bit
+4 effective embedding capacity is 345275 bit
+4 total embedding capacity is 745973 bit
+4 auxiliary information size is 400698 bit
+Dot effective embedding capacity is 347199 bit
+Effective embedding capacity is 837107 bit
+Effective embedding capacity is 3.193309783935547 bpp
+4
+('Peppers.png',)
+Cross effective embedding capacity is 340218 bit
+Cross total embedding capacity is 724895 bit
+Cross auxiliary information size is 384677 bit
+1 effective embedding capacity is 313347 bit
+1 total embedding capacity is 708683 bit
+1 auxiliary information size is 395336 bit
+2 effective embedding capacity is 312871 bit
+2 total embedding capacity is 707631 bit
+2 auxiliary information size is 394760 bit
+3 effective embedding capacity is 307310 bit
+3 total embedding capacity is 703393 bit
+3 auxiliary information size is 396083 bit
+4 effective embedding capacity is 306584 bit
+4 total embedding capacity is 702913 bit
+4 auxiliary information size is 396329 bit
+Dot effective embedding capacity is 313347 bit
+Effective embedding capacity is 653565 bit
+Effective embedding capacity is 2.493152618408203 bpp
+5
+('Lakeboat.png',)
+Cross effective embedding capacity is 303979 bit
+Cross total embedding capacity is 694449 bit
+Cross auxiliary information size is 390470 bit
+1 effective embedding capacity is 243350 bit
+1 total embedding capacity is 648107 bit
+1 auxiliary information size is 404757 bit
+2 effective embedding capacity is 243416 bit
+2 total embedding capacity is 648235 bit
+2 auxiliary information size is 404819 bit
+3 effective embedding capacity is 243868 bit
+3 total embedding capacity is 648724 bit
+3 auxiliary information size is 404856 bit
+4 effective embedding capacity is 243289 bit
+4 total embedding capacity is 648286 bit
+4 auxiliary information size is 404997 bit
+Dot effective embedding capacity is 243868 bit
+Effective embedding capacity is 547847 bit
+Effective embedding capacity is 2.0898704528808594 bpp
+The best is 3.193309783935547
+The worst is 1.2086944580078125
+The average is 0.001392324447631836
+(myenv) GGN-MAC-INT1752:FINAL CODE int1752$
